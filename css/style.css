@@ -293,7 +293,7 @@ flex-direction: column;
    }
   #servicios {  
     display:inline-block;  
-    
+     width: 100%;
   }
   #adelantos {
     display: flex;
